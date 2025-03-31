@@ -1,0 +1,8 @@
+student:
+  name: Bob
+  age: 22
+  subjects: Math,Science]
+  address:
+    street: 123 Main St
+    city: Los Angeles
+    zipcode: 454545
