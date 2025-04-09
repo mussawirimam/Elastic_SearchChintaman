@@ -1,26 +1,4 @@
-
-
-[
-    {
-
-        "name":"Chintaman",
-        "age":28,
-        "Company":"Future"
-            
-        }
-        ,
-        {
-            "student": {
-                "name": "Bob",
-                "age": 28,
-                "subjects": ["Math", "Science"],
-                "address": {
-                    "street": "123 Main St",
-                    "city": "Los Angeles",
-                    "zipcode": "90001"
-                }
-            }
-        }
+{"name": "Bob","sername":"gupta"}
         
 
-]
+
