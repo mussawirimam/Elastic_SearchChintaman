@@ -1,8 +1,14 @@
-student:
-  name: Bob
-  age: 22
-  subjects: Math,Science]
-  address:
-    street: 123 Main St
-    city: Los Angeles
-    zipcode: 454545
+databases:
+   PG:
+    databases: [salse,students]
+    ip: 10.0.0.1
+    user: myuser
+    password: mypassword
+   MG:
+    databases: [salse,students]
+    ip: 10.0.0.2
+    user: myuser
+    password: mypassword    
+    
+
+
